@@ -23,3 +23,4 @@ This project can be applied in many real-world areas. Similar weather visualizat
 
 Overall, this project improved my practical coding skills, API integration knowledge, JSON handling, error solving, and data visualization techniques using Python.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b3139765-8b0a-424d-844e-e2a3cc5f44b8" />
